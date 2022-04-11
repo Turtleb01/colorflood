@@ -9,8 +9,13 @@ Terminal with color support (most modern X terminals)
 /dev/urandom (works on Linux and macOS but not windows)
 
 ## Installation
+```
 make
-sudo make install (requires /usr/local/bin/)
+```
+```
+sudo make install
+```
+(requires /usr/local/bin/)
 
 ## Usage
 Change color of the top left corner with keys 1-8 or a-h <enter>. Quit the game with q <enter>. 
