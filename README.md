@@ -4,8 +4,11 @@ This is an old learning project of mine. Most code was written around 2020.
 
 ## Requirements
 gcc
+
 make
+
 Terminal with color support (most modern X terminals)
+
 /dev/urandom (works on Linux and macOS but not windows)
 
 ## Installation
