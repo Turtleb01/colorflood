@@ -1,4 +1,4 @@
-#Colorflood by Turtleb01
+# Colorflood by Turtleb01
 
 This is an old learning project of mine. Most code was written around 2020.
 
